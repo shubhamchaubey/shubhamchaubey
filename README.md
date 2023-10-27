@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/shubham_builds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_builds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-chaubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-chaubey" height="30" width="40" /></a>
-<a href="https://instagram.com/nerdy_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nerdy_shubham" height="30" width="40" /></a>
+<a href="https://instagram.com/shubham22.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham22.exe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
